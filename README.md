@@ -1,4 +1,4 @@
-## Impressum und Datenschutzerklärung für GitHub-Seiten
+## Impressum und Datenschutzerklärung für GitHub-Seiten von _mir_
 
 ### Anwendungsbereich
 
