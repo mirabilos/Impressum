@@ -1,3 +1,5 @@
+# imprint text
+
 ## Sonderregeln für mirabilos/dygraphs
 
 In Abweichung von untenstehendem Anwendungsbereich ist diese
