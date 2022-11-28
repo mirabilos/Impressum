@@ -13,7 +13,7 @@ jedoch als Open-Source-Projekt statt.
 
 Externe Links werden auf der „GitHub Pages“-Seite wie folgt markiert:
 
-| [externer Link](https://dygraph.github.mirsolutions.de/)![Kennzeichnungsicon für externe Links](../vextlnk.png)
+| [externer Link](https://dygraph.github.mirsolutions.de/) ![Kennzeichnungsicon für externe Links](../vextlnk.png)
 
 Einige der Tests binden externes Javascript ein, insbesondere die
 Google jsapi. Diese Tests sind sowohl im Verzeichnisindex als auch
