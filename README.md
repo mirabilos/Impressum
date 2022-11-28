@@ -1,6 +1,6 @@
-== Impressum und Datenschutzerklärung für GitHub-Seiten ==
+## Impressum und Datenschutzerklärung für GitHub-Seiten
 
-=== Anwendungsbereich ===
+### Anwendungsbereich
 
 Dieses Impressum und diese Datenschutzerklärung sind generell
 auf die GitHub-Repositories von mirabilos (Person) und MirBSD
@@ -16,7 +16,7 @@ Dieses Impressum und diese Datenschutzerklärung sind nur anzuwenden
 auf die GitHub-Präsenzen. Die eigene Webseite hat insbesondere eine
 abweichende Datenschutzerklärung.
 
-=== Impressum und Kontakt ===
+### Impressum und Kontakt
 
 Inhaltlich Verantwortlicher für die als mirabilos und/oder unter
 MirBSD entwickelten Werke, so nicht anders angegeben, sowie
@@ -29,7 +29,7 @@ Kontaktperson ist:
     eMail: ｔｇ＠ｍｉｒｂｓｄ．ｏｒｇ
     fernmündlich: ＋４９　１５１　５４８７４４６０
 
-=== Datenschutzerklärung ===
+### Datenschutzerklärung
 
 Anbieter der Dienste „GitHub“ (Repositories) und „GitHub Pages“
 und damit auch _data controller_ im Sinne der GDPR (EU-DSGVO)
