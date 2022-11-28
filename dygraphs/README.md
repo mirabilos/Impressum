@@ -17,7 +17,7 @@ Externe Links werden auf der „GitHub Pages“-Seite wie folgt markiert:
 
 Einige der Tests binden externes Javascript ein, insbesondere die
 Google jsapi. Diese Tests sind sowohl im Verzeichnisindex als auch
-in der Optionsreferenz mit dem Zeichen **⚠** markiert, unter dem
+in der Optionsreferenz mit dem Zeichen **`⚠`** markiert, unter dem
 ein erklärender Hover-Text hinterlegt ist. Diese Tests richten sich
 _ausschließlich_ an Softwareentwickler, die manuell die Integration
 der Google-Visualisierungsdienste testen wollen und sich bereits
