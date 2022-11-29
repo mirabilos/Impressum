@@ -27,6 +27,8 @@ der Google-Visualisierungsdienste testen wollen und sich bereits
 _keinesfalls_ für die Öffentlichkeit oder auch nur normale Benutzer
 gedacht.
 
+Die dygraphs-Bibliothek selbst verarbeitet die Daten rein lokal.
+
 ----
 
 Im folgenden finden sich die allgemeinen Informationen:
