@@ -1,3 +1,5 @@
+Note: My account may be in danger of getting locked out from GitHub with short or no notice, due to 2FA refusal. There is nothing I can do about that. In that case, I’ll post elsewhere about this, most likely: https://evolvis.org/~tg/
+
 # imprint text
 
 ## Impressum und Datenschutzerklärung für GitHub-Seiten von _mir_
