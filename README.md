@@ -7,8 +7,8 @@ Note: My account may be in danger of getting locked out from GitHub with short o
 ### Anwendungsbereich
 
 Dieses Impressum und diese Datenschutzerklärung sind generell
-auf die GitHub-Repositories von mirabilos (Person) und MirBSD
-(Organisation) anwendbar. Für einzelne Projekte besteht jedoch
+auf die GitHub-Repositories von mirabilos (Person) ~~und MirBSD
+(Organisation)~~ anwendbar. Für einzelne Projekte besteht jedoch
 bereits ein spezifisches Unterverzeichnis; siehe dann dort.
 
 Inhalte, die hierunter fallen, sind normalerweise Open-Source-Projekte.
