@@ -6,10 +6,9 @@ Note: My account may be in danger of getting locked out from GitHub with short o
 
 ### Anwendungsbereich
 
-Dieses Impressum und diese Datenschutzerklärung sind generell
-auf die GitHub-Repositories von mirabilos (Person) und MirBSD
-(Organisation) anwendbar. Für einzelne Projekte besteht jedoch
-bereits ein spezifisches Unterverzeichnis; siehe dann dort.
+Dieses Impressum und diese Datenschutzerklärung sind generell auf die
+GitHub-Repositories von mirabilos anwendbar. Für einzelne Repos besteht
+jedoch bereits ein spezifisches Unterverzeichnis; siehe dann dort.
 
 Inhalte, die hierunter fallen, sind normalerweise Open-Source-Projekte.
 Einige Repositories unter den genannten Accounts sind jedoch Forks von
@@ -20,18 +19,28 @@ Dieses Impressum und diese Datenschutzerklärung sind nur anzuwenden
 auf die GitHub-Präsenzen. Die eigene Webseite hat insbesondere eine
 abweichende Datenschutzerklärung.
 
+„GitHub Pages“-Seiten richten sich generell nur, als *staging area* und
+Hilfe bei der Entwicklung, an mich selbst und sind kein öffentlicher
+Dienst. Sollte für ein Repository etwas Abweichendes gelten, steht das
+in dem entsprechenden Unterverzeichnis dieses Repos (Impressum-GH).
+
 ### Impressum und Kontakt
 
-Inhaltlich Verantwortlicher für die als mirabilos und/oder unter
-MirBSD entwickelten Werke, so nicht anders angegeben, sowie
-Kontaktperson ist:
+[Impressum für mirabilos’ Hobbyprojekte](https://mein.online-impressum.de/mirabilos/),
+für alle Belange der Impressumspflicht sowie für alle Social-Media-Auftritte,
+und Verantwortlicher für journalistisch-redaktionelle Inhalte:
 
-    Ｔｈｏｒｓｔｅｎ　„ｍｉｒａｂｉｌｏｓ“　Ｇｌａｓｅｒ
-    Ｈａｕｓｄｏｒｆｆｓｔｒａßｅ　２１１
-    Ｄ－５３１２９　Ｂｏｎｎ
-    Ｄｅｕｔｓｃｈｌａｎｄ　（Ｇｅｒｍａｎｙ　／　Ａｌｌｅｍａｇｎｅ）
-    eMail: ｔｇ＠ｍｉｒｂｓｄ．ｏｒｇ
-    fernmündlich: ＋４９　１５１　５４８７４４６０
+    mirabilos — Thorsten Glaser
+    ℅ Online-Impressum 11962
+    Europaring 90
+    D-53757 Sankt Augustin
+    Deutschland (Germany / Allemagne)
+
+> Angaben zur schnellen elektronischen Kontaktaufnahme und unmittelbaren Kommunikation sowie E-Mail-Adresse:
+
+- *eMail:* mirabilos@mail.online-impressum.de
+- [*zweiter unmittelbarer elektronischer Kontaktweg*](https://mein.online-impressum.de/mirabilos/#zweiterkontaktweg) per Formular ([Anbieterdatenschutzerklärung](https://www.online-impressum.de/datenschutzerklaerung/))
+- *fernmündlich:* ＋４９　１５１　５４８７４４６０
 
 ### Datenschutzerklärung
 
