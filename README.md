@@ -10,6 +10,9 @@ Dieses Impressum und diese Datenschutzerklärung sind generell auf die
 GitHub-Repositories von mirabilos anwendbar. Für einzelne Repos besteht
 jedoch bereits ein spezifisches Unterverzeichnis; siehe dann dort.
 
+(Die GitHub-„Organisation“ MirBSD wurde gelöscht; ich entwickle
+generell nicht auf Microslop-Plattformen.)
+
 Inhalte, die hierunter fallen, sind normalerweise Open-Source-Projekte.
 Einige Repositories unter den genannten Accounts sind jedoch Forks von
 anderen Repositories und damit inhaltlich nicht (ausschließlich) unter
